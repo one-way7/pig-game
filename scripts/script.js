@@ -14,7 +14,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let scores, currentScore, activePlayer, playing;
 
-// Starting conditions
     const init = function () {
         scores = [0, 0];
         currentScore = 0;
